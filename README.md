@@ -23,7 +23,7 @@ If we run `learn` in our terminal right now, you'll get a bunch of failed tests.
   0 passing (612ms)
   3 failing
 
-  1) what-is-a-test Name returns "Joe":
+  1) what-is-a-test Name returns "Susan":
 
       Error: Expected 'Joe' to equal 'Susan'
       + expected - actual
